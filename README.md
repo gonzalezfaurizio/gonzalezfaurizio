@@ -21,7 +21,6 @@ I am eager to collaborate on open-source projects that focus on:
 - Enterprise information systems
 
 ## Online Profiles
-- **GitHub**: [@gonzalezfaurizio](https://github.com/gonzalezfaurizio)
 - **LeetCode**: [@FaurizioGonzalezAlfaro](https://leetcode.com/FaurizioGonzalezAlfaro)
 
 ## Contact Information
