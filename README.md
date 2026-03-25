@@ -41,7 +41,7 @@ Currently seeking my first professional role in data analytics or business intel
 
 ## Education
 
-**Bachelor's Degree in Business Informatics** *(in progress, graduating 2025)*
+**Bachelor's Degree in Business Informatics** *(in progress, graduating 2026)*
 Universidad de Costa Rica — Sedes Regionales (SR-CIE)
 - 140-credit program integrating IT, statistics, organizational management, and software development
 - Relevant coursework: Database Administration · Quantitative Methods for Decision-Making · Statistics for Informatics · Numerical Methods · Systems Analysis & Design · Software Engineering · IT Auditing · IT Project Management
