@@ -1,53 +1,58 @@
 # Faurizio González Alfaro
+**Business Informatics · Data & Analytics Enthusiast**
 
-[![GitHub Followers](https://img.shields.io/github/followers/gonzalezfaurizio?style=social)](https://github.com/gonzalezfaurizio)
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Bachelor+in+Business+Informatics;Azure+Cloud+Enthusiast;Data-Driven+Solutions" alt="Header Animation">
-</div>
+📍 Costa Rica &nbsp;|&nbsp; 📧 fauriziogonzalez@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/faurizio-gonzález-alfaro?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
 ---
 
-## 🔭 About Me
+## About Me
 
-🎓 **Bachelor in Business Informatics** at the University of Costa Rica  
-🧠 Passionate about the intersection of **formal mathematics** and **software development**  
-📚 Currently exploring:
-- Algorithmic optimization with a focus on computational complexity
-- Automation of CI/CD pipelines
-- Data analysis for enterprise systems
+I'm a final-year Business Informatics student at the University of Costa Rica, building toward a career in data analytics. My academic path sits at the crossroads of technology and business strategy, which means I don't just ask *how* to query a database, but *why* the data matters to the organization.
 
----
+I'm drawn to problems where structured thinking and clean data can replace gut instinct with evidence. Whether it's designing a relational model from scratch or interpreting statistical outputs to support a decision, I care about the full journey from raw data to actionable insight.
 
-## 🛠️ Technologies & Tools
-
-### **Core Skills**
-| **Mathematics**       | **Development**         | **Databases**        |
-|-----------------------|------------------------|----------------------|
-| Formal Logic          | Python                 | SQL Server           |
-| Advanced Algorithms   | Java                   | T-SQL                |
-| Data Analysis         | C++                    | MySQL                |
-
-### **Technical Stack**
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?logo=microsoft-sql-server&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+Currently seeking my first professional role in data analytics or business intelligence, where I can contribute and keep growing fast.
 
 ---
 
-## 📈 Statistics
+## Core Competencies
 
-<div align="center">
-  
-![LeetCode Progress](https://leetcard.jacoblin.cool/FaurizioGonzalezAlfaro?theme=dark&font=Abel)
-
-</div>
+- **Data Analysis & Interpretation** — Translating quantitative methods into business recommendations
+- **Database Design & Management** — Relational modeling, normalization, query optimization
+- **Systems Thinking** — Analyzing organizational processes and designing information solutions
+- **Quantitative Decision-Making** — Applied statistics and numerical methods in real scenarios
+- **Software Development Fundamentals** — Object-oriented programming, algorithms, and data structures
+- **IT Project Management** — Planning, risk analysis, and lifecycle management of tech projects
 
 ---
 
-## 📬 Contact
+## Technical Skills
 
-[![Email](https://img.shields.io/badge/📧_Email-gonzalezfaurizio@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:gonzalezfaurizio@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-Profile-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/faurizio-gonz%C3%A1lez-alfaro-931421301)  
-[![LeetCode](https://img.shields.io/badge/💻_LeetCode-Profile-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/FaurizioGonzalezAlfaro/)
+| Area | Tools & Technologies |
+|------|----------------------|
+| **Languages** | SQL, Java, Python |
+| **Databases** | MySQL, PostgreSQL, SQL Server |
+| **Concepts** | Relational modeling, normalization, stored procedures |
+| **Development** | OOP, algorithms, data structures, version control (Git) |
+| **Analytics** | Descriptive statistics, numerical methods, quantitative modeling |
+| **Other** | Network fundamentals, systems analysis & design, IT auditing |
+
+---
+
+## Education
+
+**Bachelor's Degree in Business Informatics** *(in progress, graduating 2025)*
+Universidad de Costa Rica — Sedes Regionales (SR-CIE)
+- 140-credit program integrating IT, statistics, organizational management, and software development
+- Relevant coursework: Database Administration · Quantitative Methods for Decision-Making · Statistics for Informatics · Numerical Methods · Systems Analysis & Design · Software Engineering · IT Auditing · IT Project Management
+- Completed 300 hours of University Community Service (TCU)
+
+---
+
+## What I'm Looking For
+
+I'm open to **junior analyst roles, data internships, or project collaborations** where I can apply my quantitative and database background to real business problems. I value environments that are honest about what they don't know and curious enough to find out.
+
+If you're working on something interesting in data, analytics, or business intelligence — I'd genuinely like to hear about it.
+
+📧 fauriziogonzalez@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/faurizio-gonzález-alfaro?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
